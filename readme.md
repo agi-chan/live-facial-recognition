@@ -2,8 +2,9 @@
 
 If main.py does not run, run mainedit.py!
 
-Camera source can be changed 
+Camera source can be changed by changing the number at the end of this function aka "cv.VideoCapture(0, 1, 2...)"
 
-```def run_recognition(self):
+```
+def run_recognition(self):
   video_capture = cv2.VideoCapture(1)
 ```
