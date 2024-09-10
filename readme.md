@@ -5,5 +5,5 @@ If main.py does not run, run mainedit.py!
 Camera source can be changed 
 
 '''def run_recognition(self):
-        video_capture = cv2.VideoCapture(1)
+video_capture = cv2.VideoCapture(1)
 '''
